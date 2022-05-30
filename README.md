@@ -43,3 +43,10 @@
 * （1）convnext网络不使用迁移学习训练得到的权重文件：[ntl_best_model.pth](https://drive.google.com/file/d/1k9z3dhlL6wWEECMrW37ZQxsTJTEKxz7j/view?usp=sharing)
 * （2）convnext网络使用迁移学习所用的预训练权重文件：[convnext_base_22k_224.pth](https://drive.google.com/file/d/1hsDAW80OdbJCjzRnCl258QQwjxiWrDJR/view?usp=sharing)
 * （3）convnext网络使用迁移学习训练得到的权重文件：[best_model.pth](https://drive.google.com/file/d/1jqrwSbBj3Lg24IzzsAd2pYRARkrg8Y7v/view?usp=sharing)
+### 信息及维护时间：
+```
+作者：林飞
+创建：2022-05-17
+更新：2022-05-22
+目的：使用convnext网络对Masked-Face-Dataset数据集进行训练，完成图像分类任务（是否带帽子）。
+```
